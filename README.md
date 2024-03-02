@@ -1,5 +1,5 @@
 # Data Analyst Portfolio
-This is my Data Analysis Portfolio, you'll find all my projects and case studies here.
+This is my Data Analytics Portfolio, you'll find all my projects and case studies here.
 
 
 
