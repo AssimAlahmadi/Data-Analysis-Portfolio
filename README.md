@@ -1,4 +1,4 @@
-# Data Analysis Portfolio
+# Data Analyst Portfolio
 This is my Data Analysis Portfolio, you'll find all my projects and case studies here.
 
 
